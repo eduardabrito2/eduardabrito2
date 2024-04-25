@@ -1,16 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil! 🤎
 
-<!--
-**eduardabrito2/eduardabrito2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduarda Brito
 
-Here are some ideas to get you started:
+- Sou estudante do Ensino Médio e aluna do [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript.
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Você pode entrar e contato comigo 📞📫
+
+- dudabritomary@gmail.com
+- @eduardabrito___
+
+
+![](https://media1.tenor.com/m/wZM4FtzK4o4AAAAd/aot-attack.gif)
